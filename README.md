@@ -35,10 +35,13 @@ The project demonstrates important Object-Oriented Programming concepts and Java
 - VSCodium
 
 ---
-OUTPUT:
+TERMINAL EXECUTION PART:
 
 PS C:\Users\Thejaswini S M\OneDrive\Documents\LibraryManagementSystem> javac -d out src/model/*.java src/repository/*.java src/service/*.java src/main/*.java
 PS C:\Users\Thejaswini S M\OneDrive\Documents\LibraryManagementSystem> java -cp out main.LibraryApp
+
+
+OUTPUT:
 
 ====================================================
        REVA UNIVERSITY LIBRARY MANAGEMENT SYSTEM
