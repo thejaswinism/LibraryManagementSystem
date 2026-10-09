@@ -36,8 +36,10 @@ The project demonstrates important Object-Oriented Programming concepts and Java
 
 ---
 OUTPUT:
+
 PS C:\Users\Thejaswini S M\OneDrive\Documents\LibraryManagementSystem> javac -d out src/model/*.java src/repository/*.java src/service/*.java src/main/*.java
 PS C:\Users\Thejaswini S M\OneDrive\Documents\LibraryManagementSystem> java -cp out main.LibraryApp
+
 ====================================================
        REVA UNIVERSITY LIBRARY MANAGEMENT SYSTEM
 ====================================================
